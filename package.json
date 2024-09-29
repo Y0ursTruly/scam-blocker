@@ -1,0 +1,19 @@
+{
+  "name": "scam-blocker",
+  "version": "1.0.0",
+  "description": "Kicks Scammers from WhatsApp Communities because if scammers will automate so will we",
+  "main": "scam-blocker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "admin",
+    "administrator",
+    "blocker",
+    "scam-blocker"
+  ],
+  "author": "Y0ursTruly",
+  "license": "Apache-2.0"
+}
